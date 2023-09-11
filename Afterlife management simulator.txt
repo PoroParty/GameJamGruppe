@@ -1,0 +1,3 @@
+Afterlife Management Simulation:
+
+Players are tasked with managing an afterlife realm where souls go after death. They have only 5 minutes to process as many souls as possible, assigning them to different destinations or reincarnations. The twist is that they are not the main deity or ruler of the afterlife but a lower-ranked entity responsible for sorting souls.

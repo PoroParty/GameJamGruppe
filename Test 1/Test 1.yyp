@@ -44,10 +44,10 @@
     {"id":{"name":"Background","path":"objects/Background/Background.yy",},},
     {"id":{"name":"Obj_Brock","path":"objects/Obj_Brock/Obj_Brock.yy",},},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"RM_Game","path":"rooms/RM_Game/RM_Game.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"RM_Game","path":"rooms/RM_Game/RM_Game.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

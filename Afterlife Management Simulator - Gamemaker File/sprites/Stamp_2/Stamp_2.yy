@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Stamp_2_png",
-  "bbox_bottom": 180,
-  "bbox_left": 30,
-  "bbox_right": 163,
-  "bbox_top": 49,
+  "name": "Stamp_2",
+  "bbox_bottom": 179,
+  "bbox_left": 32,
+  "bbox_right": 165,
+  "bbox_top": 48,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6fc6dc10-6709-48a8-b4f8-53a674c5c120",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3632a28b-0c84-4fc2-a172-94d6a547bc4a",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 200,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f568b9ba-79b3-4e59-b967-406ff77f44f0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"de41bffb-6cbb-4df9-b955-1c93dc58d464","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Stamp_2_png",
+    "name": "Stamp_2",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6fc6dc10-6709-48a8-b4f8-53a674c5c120","path":"sprites/Stamp_2_png/Stamp_2_png.yy",},},},"Disabled":false,"id":"b5d2cc93-7486-4382-99f0-89fb3ed7b810","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3632a28b-0c84-4fc2-a172-94d6a547bc4a","path":"sprites/Stamp_2/Stamp_2.yy",},},},"Disabled":false,"id":"612578db-ee3d-4b92-b559-fa258327895e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

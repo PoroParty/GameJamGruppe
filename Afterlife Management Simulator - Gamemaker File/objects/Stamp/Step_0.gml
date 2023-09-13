@@ -19,9 +19,9 @@ if (l7B394424_0)
 	/// @DnDParent : 7B394424
 	/// @DnDArgument : "imageind" "1"
 	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "Stamp_2_png"
-	/// @DnDSaveInfo : "spriteind" "Stamp_2_png"
-	sprite_index = Stamp_2_png;
+	/// @DnDArgument : "spriteind" "Stamp_2"
+	/// @DnDSaveInfo : "spriteind" "Stamp_2"
+	sprite_index = Stamp_2;
 	image_index += 1;
 }
 

@@ -1,9 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_adolf_profile_1",
+  "name": "obj_cleopatra_profile_1",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,},
   ],
   "managed": true,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Adolf_Hitler",
-    "path": "sprites/Adolf_Hitler/Adolf_Hitler.yy",
+    "name": "Cleopatra",
+    "path": "sprites/Cleopatra/Cleopatra.yy",
   },
   "spriteMaskId": null,
   "visible": true,

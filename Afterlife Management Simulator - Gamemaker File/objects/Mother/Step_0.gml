@@ -43,3 +43,11 @@ if (l02FEB689_0)
 		instance_create_layer(x + 20, y + 20, "Paper_Layer", Obj_adolf_profile_1);
 	}
 }
+
+/// @DnDAction : YoYo Games.Random.Get_Random_Number
+/// @DnDVersion : 1
+/// @DnDHash : 402649DD
+/// @DnDArgument : "type" "1"
+/// @DnDArgument : "min" "1"
+/// @DnDArgument : "max" "2"
+variable = floor(random_range(1, 2 + 1));

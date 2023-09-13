@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_cleopatra_profile_1","order":5,"path":"objects/obj_cleopatra_profile_1/obj_cleopatra_profile_1.yy",},
     {"name":"Fidel_Castro","order":1,"path":"sprites/Fidel_Castro/Fidel_Castro.yy",},
     {"name":"GenghisKhan","order":2,"path":"sprites/GenghisKhan/GenghisKhan.yy",},
     {"name":"Obj_informationTemplate_1","order":3,"path":"objects/Obj_informationTemplate_1/Obj_informationTemplate_1.yy",},

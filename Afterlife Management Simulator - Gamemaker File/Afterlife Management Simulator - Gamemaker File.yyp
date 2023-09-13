@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.0.98",
   },
   "resources": [
+    {"id":{"name":"obj_cleopatra_profile_1","path":"objects/obj_cleopatra_profile_1/obj_cleopatra_profile_1.yy",},},
     {"id":{"name":"Stamp","path":"objects/Stamp/Stamp.yy",},},
     {"id":{"name":"Fidel_Castro","path":"sprites/Fidel_Castro/Fidel_Castro.yy",},},
     {"id":{"name":"GenghisKhan","path":"sprites/GenghisKhan/GenghisKhan.yy",},},

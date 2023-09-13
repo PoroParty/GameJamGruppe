@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "BlankPaper",
+    "path": "sprites/BlankPaper/BlankPaper.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

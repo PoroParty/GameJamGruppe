@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_adolf_profile_1",
-  "eventList": [],
+  "name": "Master_Profile_Controller",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":32,"eventType":10,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -25,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Adolf_Hitler",
-    "path": "sprites/Adolf_Hitler/Adolf_Hitler.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

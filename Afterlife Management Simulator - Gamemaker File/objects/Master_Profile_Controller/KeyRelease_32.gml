@@ -18,9 +18,9 @@ if(l0277E66B_0)
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 0745E204
-/// @DnDArgument : "xpos" "20"
-/// @DnDArgument : "ypos" "20"
+/// @DnDArgument : "xpos" "500"
+/// @DnDArgument : "ypos" "200"
 /// @DnDArgument : "objectid" "Object_Profile"
 /// @DnDArgument : "layer" ""Paper_Layer""
 /// @DnDSaveInfo : "objectid" "Object_Profile"
-instance_create_layer(20, 20, "Paper_Layer", Object_Profile);
+instance_create_layer(500, 200, "Paper_Layer", Object_Profile);

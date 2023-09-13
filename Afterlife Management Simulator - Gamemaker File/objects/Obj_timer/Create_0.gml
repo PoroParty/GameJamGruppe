@@ -1,5 +1,5 @@
 //timer 
 
 
-mytime=15;
+mytime=300;
 showTime=mytime; 

@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.0.98",
   },
   "resources": [
+    {"id":{"name":"Stamp_2_png","path":"sprites/Stamp_2_png/Stamp_2_png.yy",},},
     {"id":{"name":"Stamp","path":"objects/Stamp/Stamp.yy",},},
     {"id":{"name":"Fidel_Castro","path":"sprites/Fidel_Castro/Fidel_Castro.yy",},},
     {"id":{"name":"GenghisKhan","path":"sprites/GenghisKhan/GenghisKhan.yy",},},

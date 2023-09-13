@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.0.98",
   },
   "resources": [
+    {"id":{"name":"EndRoom","path":"rooms/EndRoom/EndRoom.yy",},},
     {"id":{"name":"obj_cleopatra_profile_1","path":"objects/obj_cleopatra_profile_1/obj_cleopatra_profile_1.yy",},},
     {"id":{"name":"Stamp","path":"objects/Stamp/Stamp.yy",},},
     {"id":{"name":"Fidel_Castro","path":"sprites/Fidel_Castro/Fidel_Castro.yy",},},
@@ -60,6 +61,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"EndRoom","path":"rooms/EndRoom/EndRoom.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

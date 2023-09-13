@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"Fidel_Castro","order":1,"path":"sprites/Fidel_Castro/Fidel_Castro.yy",},
     {"name":"GenghisKhan","order":2,"path":"sprites/GenghisKhan/GenghisKhan.yy",},
+    {"name":"BlankPaper","order":12,"path":"sprites/BlankPaper/BlankPaper.yy",},
     {"name":"Stamp_2","order":11,"path":"sprites/Stamp_2/Stamp_2.yy",},
     {"name":"Stamp200","order":10,"path":"sprites/Stamp200/Stamp200.yy",},
     {"name":"Sigmund_Freud","order":7,"path":"sprites/Sigmund_Freud/Sigmund_Freud.yy",},

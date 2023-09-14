@@ -6,3 +6,5 @@ var seconds = showTime mod 60;
 
 var timeText = "Time Left: " + string(minutes) + "m " + string(seconds) + "s";
 draw_text(x, y, timeText); 
+
+
